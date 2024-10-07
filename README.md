@@ -1,0 +1,1 @@
+This is the README file under my gitProject for Week 6
